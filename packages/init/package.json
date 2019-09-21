@@ -1,5 +1,5 @@
 {
-  "name": "@maestro/init",
+  "name": "@virtuos/init",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "Harshit Kumar <hrsht.kumar1@gmail.com>",
   "license": "ISC",
-  "gitHead": "268c6d7efeee7cd08c1d8b502fe825cae99b7d17"
+  "gitHead": "1a0540c0f304f5778f01579973093794a7949336"
 }
