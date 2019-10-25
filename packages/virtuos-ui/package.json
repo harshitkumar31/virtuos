@@ -1,0 +1,14 @@
+{
+  "name": "@virtuos/ui",
+  "version": "0.0.1",
+  "description": "GUI to create APIs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Harshit Kumar <hrsht.kumar1@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.0.0"
+  }
+}
